@@ -1,0 +1,1 @@
+# multiranger-adapter
